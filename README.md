@@ -11,9 +11,11 @@ This program reads text from a file, calls a LLM API, saves generated responses 
 ##Setup:
 1.Cloning repository:
   git clone <url>
-  cd <folder>
+  cd <folder>  
+  
 2.Install dependencies:
   cmd<< pip install -r requirements.txt
+  
 3.Setup API key:
   use Groq, and make ur own API<< Copy the API KEY
   use the following commands in cmd, to store the Key temporarily as environmental variable
